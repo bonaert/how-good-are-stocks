@@ -8,7 +8,7 @@ In other words, imagine I buy 100$ worth of the top 500 companies (these compani
 - How long do I have to wait to have a 90% chance of making money overall?
 - How much money will I make on average?
 
-# Read [the notebook](https://github.com/harokb/how-good-are-stocks/blob/master/How%20good%20are%20stocks%3F.ipynb) to find out.
+# Read [the notebook](https://github.com/bonaert/how-good-are-stocks/blob/master/How%20good%20are%20stocks%3F.ipynb) to find out.
 
 ![The goal](https://c1.staticflickr.com/8/7693/17123251389_bed3c3a1ba_b.jpg)
 
