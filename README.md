@@ -10,3 +10,6 @@ In other words, imagine I buy 100$ worth of the top 500 companies (these compani
 
 # Read [the notebook](https://github.com/harokb/how-good-are-stocks/blob/master/How%20good%20are%20stocks%3F.ipynb) to find out.
 
+![The goal](https://c1.staticflickr.com/8/7693/17123251389_bed3c3a1ba_b.jpg)
+
+*"[Money](https://www.flickr.com/photos/pictures-of-money/17123251389)" by [Pictures of Money](https://www.flickr.com/photos/pictures-of-money/) - [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)*
